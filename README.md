@@ -1,4 +1,4 @@
 # hello-world
-First Test Repository
+First Test Repository. We are adding to this line.
 
-Hello Everyone. This is my training to learn how to use GitHub.
+Hello Peeps. This is my training to learn how to use GitHub.
